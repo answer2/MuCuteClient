@@ -40,7 +40,7 @@ object TranslationManager {
         put("fly", "飞行")
         put("no_clip", "穿墙")
         put("zoom", "缩放")
-        put("air_jump",  "空中跳跃")
+        put("air_jump",  "踏空")
         put("speed", "速度")
         put("full_bright", "夜视")
         put("haste", "急迫")
@@ -60,7 +60,7 @@ object TranslationManager {
         put("whereisit","实体追踪器")
         put("killaura", "杀戮光环")
         put("motion_fly", "动态飞行")
-        put("freecam", "免费相机")
+        put("freecam", "自由相机")
     }
 
     fun getTranslationMap(language: String): Map<String, String> {
