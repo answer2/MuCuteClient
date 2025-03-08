@@ -1,4 +1,7 @@
-# (っ◔◡◔)っ 🩷 MuCuteClient 🩷
+ MuCuteClient For AnswerDev Test
+
+ At First Thanks to Protohax, Because the repository uesd some Protohax Code
+ The repository just for studying and testing
 
 <img src="images/logo.png" alt="Logo" width="30%" />
 
